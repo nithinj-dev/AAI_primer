@@ -1,7 +1,7 @@
 # Instructions for Agentic AI Primer Lab
 1.	Go to https://console.groq.com/keys , Create an API KEY 
 2.	Go to https://openrouter.ai/, Create an API KEY
-3.	Copy the keys & them safely, you may see it only once while creating.
+3.	Copy the keys & keep them safely, you may see it only once while creating.
 # Student Workflow: Fork → Modify → Push
 Step 1: Fork the Repository on GitHub
 1.	Go to the repository: https://github.com/svhari/AAI_primer
